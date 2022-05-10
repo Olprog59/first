@@ -1,0 +1,10 @@
+# Executable windows
+*.exe
+
+*.deb
+*.app
+*.dmg
+
+logs/
+
+!logs/**/*.pseudo
